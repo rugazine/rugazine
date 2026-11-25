@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruga Zinedine</h1>
 <h3 align="center">Software engineer from indonesia</h3>
 
-- 🔭 I’m currently Studied on [SMK Raden Umar Said](https://smkrus.sch.id/)
+- 🔭 I’m currently Studied on [Bina Nusantara University](https://binus.ac.id/)
 
 - 🌱 I’m currently learning **dart, html, css, react, c#**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **garuruga02@gmail.com**
 
-- ⚡ Fun fact **Im Handsome**
+- ⚡ Fun fact **Im Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
