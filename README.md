@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruga Zinedine</h1>
 <h3 align="center">Software engineer from indonesia</h3>
 
-- 🔭 I’m currently Studied on [Bina Nusantara University](https://binus.ac.id/)
+- 🔭 I’m currently Studied on [Bina Nusantara University @Alam Sutera](https://binus.ac.id/)
 
 - 🌱 I’m currently learning **dart, html, css, react, c#**
 
